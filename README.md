@@ -1,7 +1,7 @@
 ### ChatZZ
-###About ChatZZ
+### About ChatZZ
 
-###Contributors
+### Contributors
 Simon Wathigo
 Maggie Kimani
 Philip Otieno
