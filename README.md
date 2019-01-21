@@ -1,5 +1,5 @@
 ### ChatZZ
-### About ChatZZ
+
 
 ### Contributors
 Simon Wathigo
